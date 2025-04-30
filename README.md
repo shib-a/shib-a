@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Spring AOP**, **Kotlin**, **System design** and sharpening my **Java** skills.
 
+- 📝 My resume: [Resume](https://drive.google.com/file/d/11ShWh6N3vNi3GA6i_HVe9fTuxck3fNYR/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 
 - 📫 My email: **bathshibe@gmail.com**
